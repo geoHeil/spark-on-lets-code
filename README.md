@@ -3,8 +3,12 @@
 
 # Spark On
 
-This small Spark project provides the sample code which we've talked about in the `Spark On` blog post series at [47D Blog](http://www.47deg.com/blog/tags/sparkonletscode).
-
+Based on the `Spark On` blog post series at [47D Blog](http://www.47deg.com/blog/tags/sparkonletscode) I want to:
+  - upgrade dependencies
+  - use scala.js for the frontend
+  - learn about akka-remoting
+  - add CQRS / Eventsourcing
+over time as I learn more about AKKA.
 ## App Requirements
 
 * Twitter Credentials to connect to the Twitter API. Read more about it [here](https://dev.twitter.com/overview/documentation).
