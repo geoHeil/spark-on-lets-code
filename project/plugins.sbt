@@ -10,6 +10,6 @@ addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.1.0")
 
 addSbtPlugin("com.codacy" % "sbt-codacy-coverage" % "1.1.0")
 
-addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.0.3")
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.1.1")
 
-addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.2.0")
+addSbtPlugin("se.marcuslonnberg" % "sbt-docker" % "1.4.0")
